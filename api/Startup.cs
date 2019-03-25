@@ -13,6 +13,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.EntityFrameworkCore;
 using Fisher.Bookstore.Models;
+using Fisher.Bookstore.Api.Data;
 
 namespace Fisher.Bookstore.Api
 {
