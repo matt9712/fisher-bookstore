@@ -1,5 +1,4 @@
 using System;
-using Fisher.Bookstore.Models;
 using System.Collections.Generic;
 
 namespace Fisher.Bookstore.Models
