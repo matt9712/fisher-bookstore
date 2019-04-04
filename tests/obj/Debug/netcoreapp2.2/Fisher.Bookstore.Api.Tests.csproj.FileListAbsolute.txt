@@ -1,0 +1,17 @@
+f:\Documents\AMIS3610\fisher-bookstore\tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+f:\Documents\AMIS3610\fisher-bookstore\tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+f:\Documents\AMIS3610\fisher-bookstore\tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+f:\Documents\AMIS3610\fisher-bookstore\tests\bin\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.deps.json
+f:\Documents\AMIS3610\fisher-bookstore\tests\bin\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.runtimeconfig.json
+f:\Documents\AMIS3610\fisher-bookstore\tests\bin\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.runtimeconfig.dev.json
+f:\Documents\AMIS3610\fisher-bookstore\tests\bin\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.dll
+f:\Documents\AMIS3610\fisher-bookstore\tests\bin\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.pdb
+f:\Documents\AMIS3610\fisher-bookstore\tests\obj\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.csprojAssemblyReference.cache
+f:\Documents\AMIS3610\fisher-bookstore\tests\obj\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.csproj.CoreCompileInputs.cache
+f:\Documents\AMIS3610\fisher-bookstore\tests\obj\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.AssemblyInfoInputs.cache
+f:\Documents\AMIS3610\fisher-bookstore\tests\obj\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.AssemblyInfo.cs
+f:\Documents\AMIS3610\fisher-bookstore\tests\obj\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.dll
+f:\Documents\AMIS3610\fisher-bookstore\tests\obj\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.pdb
+f:\Documents\AMIS3610\fisher-bookstore\tests\bin\Debug\netcoreapp2.2\Fisher.Bookstore.Api.dll
+f:\Documents\AMIS3610\fisher-bookstore\tests\bin\Debug\netcoreapp2.2\Fisher.Bookstore.Api.pdb
+f:\Documents\AMIS3610\fisher-bookstore\tests\obj\Debug\netcoreapp2.2\Fisher.Bookstore.Api.Tests.csproj.CopyComplete

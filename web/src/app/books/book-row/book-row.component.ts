@@ -1,6 +1,5 @@
-import { Component, OnInit, Input } from '@angular/core'
-;
-import { Book } from '../book';
+import { Component, OnInit, Input } from '@angular/core';
+import { CommonModule } from "@angular/common";
 
 @Component({
   selector: 'app-book-row',
@@ -8,7 +7,10 @@ import { Book } from '../book';
   styleUrls: ['./book-row.component.css']
 })
 export class BookRowComponent implements OnInit {
+
   @Input() book: any;
 
-  ngOnInit() {}
+  ngOnInit() {
+  }
+
 }
